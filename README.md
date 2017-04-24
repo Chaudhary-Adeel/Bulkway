@@ -1,4 +1,4 @@
-# Bulkway - Sonvert Your Android into Sms Gateway
+# Bulkway - Convert Your Android into Sms Gateway
 
 
 `1`. Download and install Bulkway Android App and start it.
